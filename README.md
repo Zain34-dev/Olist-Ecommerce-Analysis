@@ -30,11 +30,14 @@ and translate those findings into actionable, revenue-focused recommendations.
 [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) 
 (via Kaggle)
 
+![Revenue at Risk](Images/Revenue%20At%20Risk.png)
+
+![Top 10 States by Late Deliveries](Images/Top%2010%20States%20By%20Late%20Deliveries.png)
+
 ## 📂 Structure
 ```
 
-![Revenue at Risk](Images/Revenue%20At%20Risk.png)
-Olist-Ecommerce-Analysis/
+
 ├── Notebook/    → analysis notebook
 ├── Images/      → exported charts
 └── Olist/       → raw dataset
