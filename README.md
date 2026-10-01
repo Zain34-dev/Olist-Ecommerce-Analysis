@@ -32,6 +32,8 @@ and translate those findings into actionable, revenue-focused recommendations.
 
 ## 📂 Structure
 ```
+
+![Revenue at Risk](Images/Revenue%20At%20Risk.png)
 Olist-Ecommerce-Analysis/
 ├── Notebook/    → analysis notebook
 ├── Images/      → exported charts
