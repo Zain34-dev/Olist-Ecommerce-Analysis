@@ -23,8 +23,19 @@ and translate those findings into actionable, revenue-focused recommendations.
 - Delivered root-cause findings with clear, actionable recommendations
 
 ## 📈 Key Findings
-- [Add 1-2 specific stats once you finalize — e.g. "X% of late orders 
-  received a 1-2 star review" or "$X in revenue tied to delayed shipments"]
+
+- **$985,819** (7.3% of total revenue) is tied to orders that arrived late; **$2,250,027** (16.6%) is tied to orders rated 1–2 stars
+- **Late delivery tanks satisfaction**: on-time orders average a 4.15/5 review score — late orders drop to 2.26/5
+- **Distance is the strongest driver of late delivery**: cross-state orders are late 7.6% of the time vs. 4.4% for same-state orders
+- **Bulky items ship late more often**: categories like furniture and home comfort items see late rates above 13%, more than double the 6.4% platform average
+- **RJ is the clearest priority**: Brazil's #2 revenue state ($1.8M) has an above-average late-delivery rate (11.3%), unlike SP (the #1 revenue state), which performs well operationally (4.3% late)
+- **The issue isn't just regional** — the platform's top revenue-generating seller also has an above-average late rate (10.5%)
+
+## 💡 Recommendations
+- Prioritize logistics investment in RJ, a top-3 revenue state with nearly double the platform's average late rate
+- Audit high-revenue sellers with above-average late rates, starting with the top seller identified above
+- Treat delivery speed as a satisfaction lever — the ~2-point review score drop tied to late orders links logistics directly to retention
+- Use the $2.25M revenue-at-risk figure to justify investment in delivery reliability
 
 ## 📁 Dataset
 [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) 
